@@ -1,4 +1,5 @@
 let isWeekday = require("../isWeekday");
+let assert = require("assert");
 
 // console.log(isWeekday('Saturday'));
 

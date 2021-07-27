@@ -1,4 +1,5 @@
 let regCheck = require("../regCheck");
+let assert = require("assert");
 
 // console.log(regCheck('DC 55 YU GP','GP'));
 
