@@ -1,4 +1,5 @@
 let mostProfitableDepartment = require("../mostProfitableDepartment");
+let assert = require("assert");
 
 // console.log(mostProfitableDepartment(salesData));
 
